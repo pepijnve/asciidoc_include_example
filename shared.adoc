@@ -1,0 +1,5 @@
+This is an example using one or more {variables}
+
+I can only see the image below when editing `index.adoc` since `imagesdir` is not defined in this file.
+
+image::image.png[]

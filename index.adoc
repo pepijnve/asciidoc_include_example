@@ -1,0 +1,11 @@
+= Test Document
+
+:variables: parameters
+:imagesdir: images
+
+I can see the image below since `imagesdir` is defined.
+
+image::image.png[]
+
+include::shared.adoc[]
+
